@@ -1,0 +1,10 @@
+1)	Put the "TypesToClassnames.bat" file in a folder of your choice,
+2)	Open "AddExtractTypesRightClick.reg" file in a text editor,
+3)	Change the path in there to the path of the file above,
+Optional: you can change the text that is displayed when you right click the xml files.
+4)	Once changed save and open the "AddExtractTypesRightClick.reg" file it will add it to the registry.
+
+You will then be able to right click on a types file (it will be there for any xml file) and select "Extract ClassName From Types" (on windows 11 you may need to press "show more options" first)
+it will then create a file with the original name followed by _Classnames.txt containing all the classnames from the types.
+
+if you where to try again on the same types it will give an error telling you the file already exists (unless you have deleted it of course)

@@ -1,0 +1,5 @@
+Drag and drop a types file onto the "TypesToClassnames.bat" file (in this version it can be any xml with types in the name)
+it will then create a file in the original files folder with the name types_ClassNames.txt containing all the classnames from the types. 
+If you drop more than one types on it at the same time the classnames will be put into one file
+
+if types_ClassNames.txt already exists in the folder with the types file it will give an error telling you the file already exists.
