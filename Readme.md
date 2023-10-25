@@ -7,7 +7,7 @@ If you drop more than one types on it at the same time the classnames will be pu
 
 if types_ClassNames.txt already exists in the folder with the types file it will give an error telling you the file already exists.
 
-## XML File Right Click Menu (i am not responsible for you using this i did it on my pc and it works fine this will edit your registry so use at your own risk!)
+## XML File Right Click Menu (i am not responsible for you using this version i did it on my pc and it works fine this will edit your registry so use at your own risk!)
 
 ![](https://github.com/Wilmafingerdoo/Extract-ClassNames-From-Types/blob/main/RightClick.png?raw=true)
 1)	Put the "TypesToClassnames.bat" file in a folder of your choice,
