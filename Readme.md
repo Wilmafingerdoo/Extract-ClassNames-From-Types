@@ -9,7 +9,7 @@ if types_ClassNames.txt already exists in the folder with the types file it will
 
 ## XML File Right Click Menu
 
-![](https://github.com/Wilmafingerdoo/Extract-ClassNames-From-Types/blob/main/XML File Right Click Menu/RightClick.png?raw=true)
+![](https://github.com/Wilmafingerdoo/Extract-ClassNames-From-Types/blob/main/RightClick.png?raw=true)
 1)	Put the "TypesToClassnames.bat" file in a folder of your choice,
 2)	Open "AddExtractTypesRightClick.reg" file in a text editor,
 3)	Change the path in there to the path of the file above,
