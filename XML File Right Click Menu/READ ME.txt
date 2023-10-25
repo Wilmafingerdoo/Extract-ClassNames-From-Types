@@ -1,3 +1,5 @@
+(i am not responsible for you using this i did it on my pc and it works fine this will edit your registry so use at your own risk!)
+
 1)	Put the "TypesToClassnames.bat" file in a folder of your choice,
 2)	Open "AddExtractTypesRightClick.reg" file in a text editor,
 3)	Change the path in there to the path of the file above,
